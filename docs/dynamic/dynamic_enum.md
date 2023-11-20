@@ -129,7 +129,7 @@
 | MAJOR_TYPE_APPLET           |       |                                                                 |
 | MAJOR_TYPE_SUBSCRIPTION     |       |                                                                 |
 | MAJOR_TYPE_LIVE_RCMD        | 直播状态  |                                                                 |
-| MAJOR_TYPE_UGC_SEASON       | 合计更新  | [716509100448415814](https://t.bilibili.com/716509100448415814) |
+| MAJOR_TYPE_UGC_SEASON       | 合集更新  | [716509100448415814](https://t.bilibili.com/716509100448415814) |
 | MAJOR_TYPE_SUBSCRIPTION_NEW |       |                                                                 |
 
 | 类型              | 说明  | 示例  | 
